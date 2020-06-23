@@ -1,0 +1,9 @@
+Game of Life
+
+    * Graphics
+        - Generate a grid of squares
+        - Fill the grid of squares based on the state of the 2D-Array
+
+    * Logic
+        - Two-dimensional array to track each squares current state, and number of neighbors
+        - A second 2D array will be used to store the new values of the next generation that way the changes do not affect the current generation
